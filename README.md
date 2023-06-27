@@ -12,7 +12,7 @@ The Tip App provides a simple and intuitive interface for users to calculate tip
 1. Open the app on your Android device.
 2. Enter the amount of the bill you wish to pay to the service provider.
 3. Select the quality of service received from the options provided (e.g., 'good', 'okay', 'amazing').
-4. The app will calculate the tip amount to be given in addition to the bill and display the total amount to pay.
+4. The app will calculate the tip amount to be given in addition to the bill.
 
 ## Features
 - Easy-to-use interface for calculating tips.
